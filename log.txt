@@ -1,1 +1,65 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/MicroSD breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/Micro-SD_breakout.kicad_pcb
+	modified:   CAD/V1.0.0/Micro-SD_breakout.kicad_pro
+	modified:   CAD/V1.0.0/Micro-SD_breakout.kicad_sch
+	modified:   CAD/V1.0.0/PANEL/Micro-SD_breakout.kicad_pcb
+	modified:   CAD/V1.0.0/PANEL/Micro-SD_breakout.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Micro-SD_breakout_3D.step
+	modified:   OUTPUTS/V1.0.0/Micro-SD_breakout_BOM.csv
+	modified:   OUTPUTS/V1.0.0/micro-SD breakout.jpg
+	modified:   OUTPUTS/V1.0.0/microSD breakout_ibom.html
+	modified:   OUTPUTS/V1.0.0/microSD_breakout.pdf
+	modified:   OUTPUTS/V1.0.0/microSD_breakout_177.4x202.8_40.zip
+	modified:   README.md
+	new file:   log.txt
+
+[main e785b29] Updating open source files.
+ 21 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/Micro-SD_breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/Micro-SD_breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/Micro-SD_breakout.kicad_sch
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/Micro-SD_breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/Micro-SD_breakout.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Micro-SD_breakout_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Micro-SD_breakout_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/micro-SD breakout.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/microSD breakout_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/microSD_breakout.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/microSD_breakout_177.4x202.8_40.zip
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/MicroSD-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander PCAL6416A breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Membrane keyboard with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/MicroSD breakout/.git/
