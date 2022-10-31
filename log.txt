@@ -63,3 +63,56 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/MicroSD breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 3b279e1] Updating open source files.
+ 1 file changed, 64 insertions(+)
+https://github.com/SolderedElectronics/MicroSD-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander PCAL6416A breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Membrane keyboard with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
+https://github.com/SolderedElectronics/MicroSD-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander PCAL6416A breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Membrane keyboard with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
+https://github.com/SolderedElectronics/MicroSD-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/IO expander PCAL6416A breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Membrane keyboard with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Obstacle-sensor-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC to Obstacle-sensor-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/MicroSD breakout/.git/
